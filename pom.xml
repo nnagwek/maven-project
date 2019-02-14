@@ -210,7 +210,7 @@
     <connection>scm:git:git@github.com/nnagwek/maven-project.git</connection>
     <developerConnection>scm:git:git@github.com/nnagwek/maven-project.git</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/jleetutorial/maven-project</url>
+    <url>https://github.com/nnagwek/maven-project</url>
   </scm>
 
   <prerequisites>
